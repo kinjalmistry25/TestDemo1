@@ -4,4 +4,9 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://classic.listingprowp.com/'</initValue>
+      <name>APP_URL</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

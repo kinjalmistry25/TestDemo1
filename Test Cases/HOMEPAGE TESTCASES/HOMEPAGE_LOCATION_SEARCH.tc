@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing the results according to Location as well as keywords.</description>
+   <name>HOMEPAGE_LOCATION_SEARCH</name>
+   <tag>keyword,search,location</tag>
+   <comment></comment>
+   <testCaseGuid>c2a699ab-e11d-4273-accb-8b23f5cbe43d</testCaseGuid>
+</TestCaseEntity>
