@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HOMEPAGE_LOCATION_Script</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ba04af9-e2a9-4d5a-8333-a9607a3f96ab</testCaseGuid>
+   <variable>
+      <defaultValue>['food', 'hotel', 'restaurant']</defaultValue>
+      <description></description>
+      <id>71fdf625-ca82-408d-9e62-2a7332d51039</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+</TestCaseEntity>
